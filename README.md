@@ -34,9 +34,11 @@ We notice that the heap agent performed optimally in the enviroment, were the na
 #### Naive Agent:
 
 Heatmap Naive Agent:
+
 <img src = './images/Naive.jpg'>
 
 #### Heap Agent:
 
 Heatmap Heap Agent:
+
 <img src = './images/Heap.jpg'>
